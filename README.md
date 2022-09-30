@@ -1,11 +1,13 @@
 ### Hi there 👋
-大家好啊，我是jking412:smile:
-- :four_leaf_clover:loving life
-- :cake:loving coding
+<p align="center">大家好啊，我是jking412:smile:</p>
+<p align="center">现在是一名在读大学生，目前也是一个Web开发小白，与此同时对计算机领域的各个领域都相当感兴趣:fire:</p>
+<p align="center">:four_leaf_clover:loving life</p>
+<p align="center">:cake:loving coding</p>
+<p align="center">:sparkles:欢迎大家的follow</p>
 
-现在是一名在读大学生，目前也是一个Web开发小白，与此同时对计算机领域的各个领域都相当感兴趣:fire:
 
-欢迎大家的follow
+
+
 
 <div align="center"> <img src="https://metrics.lecoq.io/jking412?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
