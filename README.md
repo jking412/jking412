@@ -21,10 +21,10 @@
 </div>
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=jking412&theme=xcode" /> </div>
+<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=jking412&theme=xcode" /> </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/jking412/jking412/main/assets/github-contribution-grid-snake.svg" />
-</div>
+</div> -->
 
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/jking412/jking412/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<!-- <div align="center" ><img src="https://cdn.jsdelivr.net/gh/jking412/jking412/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div> -->
