@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">大家好啊，我是jking412:smile:</p>
-<p align="center">现在是一名在读大学生，目前也是一个Gopher，热爱计算机:fire:</p>
+<p align="center">在读大学生，Gopher一名，热爱计算机:fire:</p>
 <p align="center">:four_leaf_clover:loving life</p>
 <p align="center">:cake:loving coding</p>
 <p align="center">:sparkles:欢迎大家的follow</p>
