@@ -8,9 +8,6 @@
 
 
 
-
-<div align="center"> <img src="https://metrics.lecoq.io/jking412?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jking412&show_icons=true&theme=radical" />
 </div>
